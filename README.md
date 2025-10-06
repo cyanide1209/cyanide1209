@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cyanide1209
-- 👀 I'm creating this as a repo for personal projects and school projects
-- 🌱 I'm currently an undergrad student studying CS and MIS
-- 💞️ I’m looking to collaborate on anything intersting
+- 👀 I'm creating this as a repo for personal projects
 - 📫 Hit me up at @sayan.jain@gmail.com
 
 <!---
